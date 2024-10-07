@@ -24,3 +24,4 @@ while swapped == True:
       swapped = True 
       
 exapmle_list = [34, 23, 12, 78, 35]
+bubbleSort(exapmle_list)
