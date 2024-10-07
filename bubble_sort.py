@@ -20,3 +20,4 @@ while swapped == True:
   swapped = False 
   for i in range(1, len(array)):
     if arr[i] > arr[i + 1]:
+      array[i-1], array[i] = array[i], array[i-1]
