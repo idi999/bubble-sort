@@ -22,3 +22,5 @@ while swapped == True:
     if arr[i] > arr[i + 1]:
       array[i-1], array[i] = array[i], array[i-1]
       swapped = True 
+      
+exapmle_list = [34, 23, 12, 78, 35]
